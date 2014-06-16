@@ -1,0 +1,10 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/Users/ljohnson/code/learning/ruby/books/hartl-tutorial/microposts",
+      "file_exclude_patterns": ["*.sublime-*"]
+		}
+	]
+}

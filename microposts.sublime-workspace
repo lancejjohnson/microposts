@@ -1,0 +1,2119 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Ser",
+				"ServicePlanSelection"
+			],
+			[
+				"lgo",
+				"log_as_curl"
+			],
+			[
+				"log",
+				"log_as_curl"
+			],
+			[
+				"response",
+				"response_data"
+			],
+			[
+				"prev",
+				"preview"
+			],
+			[
+				"str",
+				"stringify_response"
+			],
+			[
+				"strin",
+				"stringify"
+			],
+			[
+				"string",
+				"stringify_response"
+			],
+			[
+				"ser",
+				"service_line_id"
+			],
+			[
+				"auth",
+				"auth_override"
+			],
+			[
+				"activate",
+				"activate_device"
+			],
+			[
+				"teleh",
+				"telephone_number"
+			],
+			[
+				"Tele",
+				"TelephoneNumber"
+			],
+			[
+				"number",
+				"number_info"
+			],
+			[
+				"call",
+				"calling_area"
+			],
+			[
+				"num",
+				"number_info"
+			],
+			[
+				"add",
+				"add_property"
+			],
+			[
+				"offer",
+				"offer_item"
+			],
+			[
+				"pr",
+				"property"
+			],
+			[
+				"get",
+				"get_voice_mail"
+			],
+			[
+				"rep",
+				"republic_wireless_customer"
+			],
+			[
+				"rw",
+				"republic_wireless"
+			],
+			[
+				"cou",
+				"country_code"
+			],
+			[
+				"Tel",
+				"TelephoneNumber"
+			],
+			[
+				"cart",
+				"cart_collections"
+			],
+			[
+				"off",
+				"offer_item"
+			],
+			[
+				"te",
+				"telephone_number"
+			],
+			[
+				"telephone",
+				"telephone_number"
+			],
+			[
+				"tele",
+				"telephone_number"
+			],
+			[
+				"tel",
+				"telephone_number"
+			],
+			[
+				"order",
+				"order_items"
+			],
+			[
+				"attr",
+				"attr_reader"
+			],
+			[
+				"loo",
+				"lookup"
+			],
+			[
+				"for",
+				"forwardable"
+			],
+			[
+				"prod",
+				"product_for"
+			],
+			[
+				"serivc",
+				"service_line"
+			],
+			[
+				"rand",
+				"random_available"
+			],
+			[
+				"own",
+				"owner_id"
+			],
+			[
+				"service_line",
+				"service_line_users"
+			],
+			[
+				"cu",
+				"current_device_is"
+			],
+			[
+				"have",
+				"have_offers"
+			],
+			[
+				"last",
+				"last_response"
+			],
+			[
+				"get_serv",
+				"get_service_line_offers"
+			],
+			[
+				"service",
+				"service_line"
+			],
+			[
+				"plan",
+				"plan_name"
+			],
+			[
+				"paln",
+				"plan_change_table"
+			],
+			[
+				"user",
+				"user_by_id"
+			],
+			[
+				"expect",
+				"expect_service_lines"
+			],
+			[
+				"Order",
+				"OrderController"
+			],
+			[
+				"un",
+				"unrecognizedPropertyExists"
+			],
+			[
+				"sho",
+				"showAccoutPaymentPrompt"
+			],
+			[
+				"Orde",
+				"OrderController"
+			],
+			[
+				"reset",
+				"reset_offers"
+			],
+			[
+				"rese",
+				"reset_offers"
+			],
+			[
+				"sof",
+				"software-testing"
+			],
+			[
+				"test",
+				"automated-testing"
+			],
+			[
+				"add_pln",
+				"add_plan_to_cart"
+			],
+			[
+				"get_ser",
+				"get_service_line_offers"
+			],
+			[
+				"swap",
+				"swap_info"
+			],
+			[
+				"Fa",
+				"FactoryGirl"
+			],
+			[
+				"expec",
+				"expect_uuid_eventually"
+			],
+			[
+				"User",
+				"UserIdExpectedCondition"
+			],
+			[
+				"Stratus",
+				"StratusClient"
+			],
+			[
+				"require",
+				"require_relative"
+			],
+			[
+				"qu",
+				"quantity"
+			],
+			[
+				"do",
+				"defy_xt_offers"
+			],
+			[
+				"No",
+				"NotImplementedError"
+			],
+			[
+				"stop",
+				"stop_if_max_reached"
+			],
+			[
+				"activ",
+				"activation"
+			],
+			[
+				"match",
+				"match_lines"
+			],
+			[
+				"dow",
+				"downcase"
+			],
+			[
+				"matc",
+				"matching"
+			],
+			[
+				"mat",
+				"match_lines"
+			],
+			[
+				"Exp",
+				"ExpectationNotMetError"
+			],
+			[
+				"saf",
+				"satisfied"
+			],
+			[
+				"Ex",
+				"ExpectedConditionDouble"
+			],
+			[
+				"Expect",
+				"ExpectedCondition"
+			],
+			[
+				"sa",
+				"satisfied"
+			],
+			[
+				"int",
+				"interval_seconds"
+			],
+			[
+				"max",
+				"max_attempts"
+			],
+			[
+				"inv",
+				"interval_seconds"
+			],
+			[
+				"Autho",
+				"Authorization"
+			],
+			[
+				"P",
+				"Pssawrd0"
+			],
+			[
+				"For",
+				"ForcePasswordRequest"
+			],
+			[
+				"pass",
+				"password_options"
+			],
+			[
+				"stratu",
+				"stratus_env"
+			],
+			[
+				"api",
+				"api_path"
+			],
+			[
+				"Straut",
+				"StratusService"
+			],
+			[
+				"rsp",
+				"rsp_user"
+			],
+			[
+				"user_by_",
+				"user_by_email"
+			],
+			[
+				"recon",
+				"reconstruct_user_by_id"
+			],
+			[
+				"other",
+				"other_customer"
+			],
+			[
+				"free",
+				"free_agent_info"
+			],
+			[
+				"fre",
+				"free_agent_info"
+			],
+			[
+				"device",
+				"device_name"
+			],
+			[
+				"days",
+				"days_since_today"
+			],
+			[
+				"created_",
+				"created_before"
+			],
+			[
+				"pre",
+				"pretty_inspect"
+			],
+			[
+				"gua",
+				"guarantee_date"
+			],
+			[
+				"gu",
+				"guarantee_date"
+			],
+			[
+				"paym",
+				"payment_notary_success"
+			],
+			[
+				"previous",
+				"previous_order"
+			],
+			[
+				"prevoius",
+				"previous_order"
+			],
+			[
+				"add_",
+				"add_customer"
+			],
+			[
+				"rma",
+				"rma_type"
+			],
+			[
+				"have_one_ti",
+				"have_one_time_charge_total"
+			],
+			[
+				"cha",
+				"charge_amount"
+			],
+			[
+				"line",
+				"line_identifiers"
+			],
+			[
+				"transform",
+				"transform_returns_table"
+			],
+			[
+				"request",
+				"request_body"
+			],
+			[
+				"phone",
+				"phone_name"
+			],
+			[
+				"place",
+				"place_order"
+			],
+			[
+				"conver",
+				"convert_cart_to_order"
+			],
+			[
+				"make",
+				"make_criteria"
+			],
+			[
+				"servic",
+				"service_name"
+			],
+			[
+				"param",
+				"parameter_for"
+			],
+			[
+				"Sevi",
+				"ServiceLineUsers"
+			],
+			[
+				"spec",
+				"spec_helper"
+			],
+			[
+				"val",
+				"value_for"
+			],
+			[
+				"Serv",
+				"ServiceLineUsersUserDataToUrlParameterMap"
+			],
+			[
+				"para",
+				"parameter"
+			],
+			[
+				"par",
+				"param_map"
+			],
+			[
+				"url",
+				"url_parameters"
+			],
+			[
+				"product",
+				"product_info"
+			],
+			[
+				"produ",
+				"product_info"
+			],
+			[
+				"value",
+				"value_mutator"
+			],
+			[
+				"time",
+				"time_greater_than"
+			],
+			[
+				"maps",
+				"maps_2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/JSLint/JSLint.sublime-build",
+	"command_palette":
+	{
+		"height": 269.0,
+		"selected_items":
+		[
+			[
+				"proj",
+				"Project: Save As"
+			],
+			[
+				"ever se",
+				"Evernote: Search Note"
+			],
+			[
+				"case",
+				"Convert Case: Title Case"
+			],
+			[
+				"eve sear",
+				"Evernote: Search Note"
+			],
+			[
+				"ever sear",
+				"Evernote: Search Note"
+			],
+			[
+				"ev ne",
+				"Evernote: New empty note"
+			],
+			[
+				"sy pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"ref",
+				"Project: Refresh Folders"
+			],
+			[
+				"eve new",
+				"Evernote: New empty note"
+			],
+			[
+				"new fil",
+				"File: New File Relative to Current View"
+			],
+			[
+				"ev ser",
+				"Evernote: Search Note"
+			],
+			[
+				"syn rsp",
+				"Set Syntax: RSpec"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"new file",
+				"File: New File Relative to Current View"
+			],
+			[
+				"new",
+				"File: New File Relative to Project Root"
+			],
+			[
+				"hook",
+				"SublimeLinter: Choose Mark Style"
+			],
+			[
+				"ev up",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"eve se",
+				"Evernote: Search Note"
+			],
+			[
+				"ev sen",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"syn json",
+				"Set Syntax: JSON"
+			],
+			[
+				"eve ser",
+				"Evernote: Search Note"
+			],
+			[
+				"ever u",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"eve",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"eve ne",
+				"Evernote: New empty note"
+			],
+			[
+				"eve up",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"eve sa",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"ever",
+				"Evernote: New empty note"
+			],
+			[
+				"even",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"reid",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syn jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ev sea",
+				"Evernote: Search Note"
+			],
+			[
+				"ev se",
+				"Evernote: Search Note"
+			],
+			[
+				"ev s",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"evernew",
+				"Evernote: New empty note"
+			],
+			[
+				"ever ne",
+				"Evernote: New empty note"
+			],
+			[
+				"evese",
+				"Evernote: Search Note"
+			],
+			[
+				"evn",
+				"Evernote Settings: Reconfigure Authorization"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"syn jas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"syn ru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"syn ghe",
+				"Set Syntax: Gherkin"
+			],
+			[
+				"ind",
+				"Indent XML"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"glu",
+				"Glue - Launch"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"rspec",
+				"Set Syntax: RSpec"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"mov",
+				"File: Move"
+			],
+			[
+				"syn rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"fref",
+				"Project: Refresh Folders"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"refr",
+				"Project: Refresh Folders"
+			],
+			[
+				"new f",
+				"File: New File Relative to Current View"
+			],
+			[
+				"ind ",
+				"Indent XML"
+			],
+			[
+				"rie",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"ind x",
+				"Indent XML"
+			],
+			[
+				"inden",
+				"Indent XML"
+			],
+			[
+				"inde xm",
+				"Indent XML"
+			],
+			[
+				"inde x",
+				"Indent XML"
+			],
+			[
+				"inde",
+				"Indent XML"
+			],
+			[
+				"rspe",
+				"Set Syntax: RSpec"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"new fi",
+				"File: New File Relative to Project Root"
+			],
+			[
+				"new fie",
+				"File: New File Relative to Current View"
+			],
+			[
+				"refre",
+				"Project: Refresh Folders"
+			],
+			[
+				"pack ",
+				"Package Control: Remove Package"
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"ru",
+				"RuboCop: Check current file"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syn ruy",
+				"Set Syntax: Ruby"
+			],
+			[
+				"sy mak",
+				"Set Syntax: Markdown"
+			],
+			[
+				"new ",
+				"File: New File Relative to Current View"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"file new",
+				"File: New File Relative to Current View"
+			],
+			[
+				"sy ru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"rub",
+				"RuboCop: Check current file"
+			],
+			[
+				"snipp down",
+				"Snippet: downto(0) { |n| .. }"
+			],
+			[
+				"syn ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"book",
+				"Bookmarks: Select Previous"
+			],
+			[
+				"lin",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"syn xml",
+				"Set Syntax: XML"
+			],
+			[
+				"tostu",
+				"View: Toggle Status Bar"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"statu",
+				"View: Toggle Status Bar"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"status",
+				"View: Toggle Status Bar"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"tog stat",
+				"View: Toggle Status Bar"
+			],
+			[
+				"ne",
+				"File: New File Relative to Current View"
+			],
+			[
+				"ne fi",
+				"File: New File Relative to Current View"
+			],
+			[
+				"rsp",
+				"Set Syntax: RSpec"
+			],
+			[
+				"ri",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"up",
+				"Convert Case: Upper Case"
+			],
+			[
+				"prett",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"pret",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rubo",
+				"RuboCop: Check current file"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"sor",
+				"Sort Lines"
+			],
+			[
+				"insall",
+				"Package Control: Install Package"
+			],
+			[
+				"syn sj",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"case lo",
+				"Convert Case: Lower Case"
+			],
+			[
+				"syn gherk",
+				"Set Syntax: Gherkin"
+			],
+			[
+				"cucu",
+				"Gherkin/Cucumber: Format"
+			],
+			[
+				"prety",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"syn js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Ruby Initialize"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"sy pl",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"qa",
+				"Snippet: assert_equal(..)"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"pack ina",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 257.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ljohnson/Development/stratus_cukes/config/net_suite_environments.yml",
+		"/Users/ljohnson/Development/stratus_cukes/config/cucumber.yml",
+		"/Users/ljohnson/Development/stratus_cukes/tags",
+		"/Users/ljohnson/Development/stratus_cukes/Rakefile",
+		"/Users/ljohnson/Development/stratus_cukes/project_notes.txt",
+		"/Users/ljohnson/Development/stratus_cukes/Gemfile.lock",
+		"/Users/ljohnson/Development/stratus_cukes/Gemfile",
+		"/Users/ljohnson/Development/stratus_cukes/features/support/matchers/be_current.rb",
+		"/Users/ljohnson/Development/stratus_cukes/features/api/kitchen_sink.feature",
+		"/Users/ljohnson/Development/stratus_cukes/lib/client/adaptors/typhoeus_response_adaptor.rb",
+		"/Users/ljohnson/Library/Application Support/Sublime Text 3/Packages/User/Ruby.sublime-settings",
+		"/Users/ljohnson/Development/stratus_cukes/features/support/world_extensions/conductor.rb",
+		"/Users/ljohnson/Development/stratus_cukes/features/step_definitions/return_steps.rb",
+		"/Users/ljohnson/Development/stratus_cukes/docs/play_by_play/requests.md",
+		"/Users/ljohnson/Development/stratus_cukes/docs/play_by_play/return_phone_play_by_play.md",
+		"/Users/ljohnson/Development/stratus_cukes/features/api/return_phone_and_cancel_account.feature",
+		"/Users/ljohnson/Development/stratus_cukes/docs/play_by_play/swap_play_by_play.md",
+		"/Users/ljohnson/Development/stratus_cukes/features/support/world_extensions/inspector.rb",
+		"/Users/ljohnson/Development/stratus_cukes/lib/client/stratus/services/modus.rb",
+		"/Users/ljohnson/Development/stratus_cukes/docs/play_by_play/cancel_service_plan_play_by_play.md",
+		"/Users/ljohnson/Development/stratus_cukes/factory_girls/redemption.rb",
+		"/Users/ljohnson/Development/stratus_cukes/docs/play_by_play/order_and_ship_play_by_play.md",
+		"/Users/ljohnson/Development/stratus_cukes/docs/icurl_transfer/swap_play_by_play.md",
+		"/Users/ljohnson/Development/stratus_cukes/lib/client/stratus/services/helpers/auth_options_preparer.rb",
+		"/Users/ljohnson/Development/stratus_cukes/docs/icurl_transfer/requests.md",
+		"/Users/ljohnson/Development/stratus_cukes/features/support/services/base_request.rb",
+		"/Users/ljohnson/Development/stratus_cukes/features/support/services/auth_service.rb",
+		"/Users/ljohnson/Development/stratus_cukes/features/api/multiuser_accounts.feature",
+		"/Users/ljohnson/Development/stratus_cukes/features/api/upgrade_and_ship_defy_xt.feature",
+		"/Users/ljohnson/Development/stratus_cukes/features/step_definitions/customer_steps.rb",
+		"/Users/ljohnson/Development/stratus_cukes/docs/icurl_transfer/upgrade_play_by_play.md",
+		"/Users/ljohnson/Development/stratus_cukes/features/util_features/swap_order.feature",
+		"/Users/ljohnson/Development/stratus_cukes/spec/spec_helper.rb",
+		"/Users/ljohnson/Development/stratus_cukes/features/api/refer_a_friend.feature",
+		"/Users/ljohnson/Development/stratus_cukes/lib/client/stratus/services/service_lines.rb",
+		"/Users/ljohnson/Development/stratus_cukes/features/step_definitions/account_steps.rb",
+		"/Users/ljohnson/Development/stratus_cukes/features/step_definitions/service_line_steps.rb",
+		"/Users/ljohnson/Development/stratus_cukes/docs/icurl_transfer/change_service_plan_play_by_play.md",
+		"/Users/ljohnson/Development/stratus_cukes/docs/icurl_transfer/cancel_service_plan_play_by_play.md",
+		"/Users/ljohnson/Development/stratus_cukes/docs/icurl_transfer/multiuser_account_play_by_play.md",
+		"/Users/ljohnson/Development/stratus_cukes/docs/icurl_transfer/order_and_ship_play_by_play.md",
+		"/Users/ljohnson/Development/stratus_cukes/features/step_definitions/plan_change_steps.rb",
+		"/Users/ljohnson/Development/stratus_cukes/features/api/change_service_plan.feature",
+		"/Users/ljohnson/Development/stratus_cukes/features/api/change_telephone_number.feature",
+		"/Users/ljohnson/Development/stratus_cukes/features/api/cancel_service_plan.feature",
+		"/Users/ljohnson/Development/stratus_cukes/features/api/order_plan_for_free_agent.feature",
+		"/Users/ljohnson/Development/stratus_cukes/features/support/model/order_preview.rb",
+		"/Users/ljohnson/Development/stratus_cukes/features/support/model/order.rb",
+		"/Users/ljohnson/Development/stratus_cukes/features/api/offers.feature",
+		"/Users/ljohnson/Development/stratus_cukes/features/api/account_user_order.feature",
+		"/Users/ljohnson/Development/stratus_cukes/features/support/hooks.rb",
+		"/Users/ljohnson/Development/stratus_cukes/lib/client/stratus/services/profiles.rb",
+		"/Users/ljohnson/Development/stratus_cukes/features/step_definitions/order_steps.rb",
+		"/Users/ljohnson/Development/stratus_cukes/features/api/swap.feature",
+		"/Users/ljohnson/Development/stratus_cukes/docs/icurl_transfer/play_by_play.md",
+		"/Users/ljohnson/Development/stratus_cukes/docs/icurl_transfer/offers_play_by_play.md",
+		"/Users/ljohnson/Development/stratus_cukes/features/support/world_extensions/response_codes.rb",
+		"/Users/ljohnson/Development/stratus_cukes/features/support/services/profile_response.rb",
+		"/Users/ljohnson/Development/stratus_cukes/features/support/services/profile_request.rb",
+		"/Users/ljohnson/Development/stratus_cukes/lib/product/product.rb",
+		"/Users/ljohnson/Development/stratus_cukes/spec/lib/client/stratus/services/service_lines_spec.rb",
+		"/Users/ljohnson/Development/stratus_cukes/features/support/model/service_line.rb",
+		"/Users/ljohnson/Development/stratus_cukes/lib/resources/catalog/republic/service_plans.yml",
+		"/Users/ljohnson/Development/stratus_cukes/features/step_definitions/rest_steps.rb",
+		"/Users/ljohnson/Development/stratus_cukes/features/api/preview_order.feature",
+		"/Users/ljohnson/Development/stratus_cukes/features/step_definitions/expect_steps.rb",
+		"/Users/ljohnson/Development/stratus_cukes/features/api/order_and_ship_phones_and_accessories.feature",
+		"/Users/ljohnson/Development/stratus_cukes/features/api/order_and_ship_moto_x.feature",
+		"/Users/ljohnson/Development/stratus_cukes/lib/client/stratus/services/orders.rb",
+		"/Users/ljohnson/Development/stratus_cukes/features/support/model/account.rb",
+		"/Users/ljohnson/Development/stratus_cukes/features/step_definitions/charge_and_credit_steps.rb",
+		"/Users/ljohnson/Development/stratus_cukes/features/support/matchers/have_one_time_charge.rb",
+		"/Users/ljohnson/Development/stratus_cukes/features/support/matchers/have_offers.rb",
+		"/Users/ljohnson/Development/stratus_cukes/lib/client/helpers/object_hasher.rb",
+		"/Users/ljohnson/Development/stratus_cukes/features/support/model/device.rb",
+		"/Users/ljohnson/Development/stratus_cukes/features/api/order_and_ship_moto_g.feature",
+		"/Users/ljohnson/Development/stratus_cukes/docs/icurl_transfer/order_and_ship_with_curl.txt",
+		"/Users/ljohnson/Development/stratus_cukes/features/support/world_extensions/net_suite_interactor.rb",
+		"/Users/ljohnson/Development/stratus_cukes/features/step_definitions/offers_steps.rb",
+		"/Users/ljohnson/Development/stratus_cukes/features/step_definitions/device_steps.rb",
+		"/Users/ljohnson/Development/stratus_cukes/features/support/world_extensions/devices_helper.rb",
+		"/Users/ljohnson/Development/stratus_cukes/features/support/world_extensions/foreman.rb",
+		"/Users/ljohnson/Development/stratus_cukes/features/support/utils/net_suite_serial_number_manager.rb",
+		"/Users/ljohnson/Development/stratus_cukes/spec/lib/client/net_suite/services/devices_spec.rb",
+		"/Users/ljohnson/Development/stratus_cukes/lib/client/net_suite/services/devices.rb",
+		"/Users/ljohnson/Development/stratus_cukes/lib/client/net_suite/services/net_suite.rb",
+		"/Users/ljohnson/Development/stratus_cukes/spec/lib/client/net_suite/services/net_suite_spec.rb",
+		"/Users/ljohnson/Development/stratus_cukes/spec/lib/product/product_loader_spec.rb",
+		"/Users/ljohnson/Development/stratus_cukes/features/support/matchers/have_order_id.rb",
+		"/Users/ljohnson/Development/stratus_cukes/features/support/matchers/have_response_code.rb",
+		"/Users/ljohnson/Development/stratus_cukes/features/util_features/customizable_order.feature",
+		"/Users/ljohnson/Development/stratus_cukes/spec/lib/client/stratus/services/orders_spec.rb",
+		"/Users/ljohnson/Development/stratus_cukes/features/support/model/user.rb",
+		"/Users/ljohnson/Development/stratus_cukes/lib/client/stratus/services/stratus_response.rb",
+		"/Users/ljohnson/Development/stratus_cukes/lib/client/net_suite/services/net_suite_response.rb",
+		"/Users/ljohnson/Development/stratus_cukes/config/stratus_environments.yml",
+		"/Users/ljohnson/Development/stratus_cukes/spec/fixtures/net_suite_resource_nsid.json",
+		"/Users/ljohnson/Development/stratus_cukes/spec/config/net_suite_environment_spec.rb",
+		"/Users/ljohnson/Development/stratus_cukes/config/net_suite_env.rb",
+		"/Users/ljohnson/Development/stratus_cukes/spec/features/support/services/stratus_response_spec.rb",
+		"/Users/ljohnson/Development/stratus_cukes/spec/features/support/services/stratus_request_spec.rb",
+		"/Users/ljohnson/Development/stratus_cukes/features/support/services/stratus_request.rb",
+		"/Users/ljohnson/Development/stratus_cukes/spec/config/stratus_environment_spec.rb",
+		"/Users/ljohnson/Development/stratus_cukes/features/support/utils/serial_number_maker.rb",
+		"/Users/ljohnson/Development/stratus_cukes/lib/client/net_suite/model/device_receipt.rb",
+		"/Users/ljohnson/Development/stratus_cukes/spec/lib/client/stratus/services/offers_spec.rb",
+		"/Users/ljohnson/Development/stratus_cukes/features/api/order_accessories.feature",
+		"/Users/ljohnson/Development/stratus_cukes/docs/icurl_transfer/order_and_ship_with_curl_abbrev.txt",
+		"/Users/ljohnson/Development/stratus_cukes/features/step_definitions/select_steps.rb",
+		"/Users/ljohnson/Development/stratus_cukes/features/api/order_moto_g.feature",
+		"/Users/ljohnson/Development/stratus_cukes/features/api/order_moto_x.feature",
+		"/Users/ljohnson/Development/stratus_cukes/spec/tmp/one_offer_stratus_service_spec.rb",
+		"/Users/ljohnson/Development/stratus_cukes/features/support/data/customer.rb",
+		"/Users/ljohnson/Development/stratus_cukes/spec/lib/client/stratus/services/users_spec.rb",
+		"/Users/ljohnson/development/stratus_cukes/docs/icurl_transfer/order_and_ship_with_curl_abbrev.txt",
+		"/Users/ljohnson/Development/stratus_cukes/lib/client/stratus/services/stratus_request.rb",
+		"/Users/ljohnson/Development/stratus_cukes/factory_girls/customer.rb",
+		"/Users/ljohnson/Development/stratus_cukes/lib/client/stratus/services/offers.rb",
+		"/Users/ljohnson/Development/stratus_cukes/lib/client/stratus/services/stratus_service.rb",
+		"/Users/ljohnson/Development/stratus_cukes/spec/tmp/offers_inspector_spec.rb",
+		"/Users/ljohnson/Development/stratus_cukes/docs/icurl_transfer/place_and_ship_order_abbrev.txt",
+		"/Users/ljohnson/Development/stratus_cukes/docs/icurl_transfer/place_and_ship_order.txt",
+		"/Users/ljohnson/Development/stratus_cukes/spec/fixtures/place_order_result.json",
+		"/Users/ljohnson/Development/stratus_cukes/features/support/errors/abort_test_error.rb",
+		"/Users/ljohnson/Development/stratus_cukes/features/todo/service_plan_selection.feature",
+		"/Users/ljohnson/Development/stratus_cukes/spec/features/support/services/verify_token_request_spec.rb",
+		"/Users/ljohnson/Development/stratus_cukes/features/support/services/verify_token_request.rb",
+		"/Users/ljohnson/Development/stratus_cukes/config/env_config.rb"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"*.rb,*.feature,*.yml",
+			"*.feature,*.yml",
+			"*.rb,*.feature,*.yml",
+			"*.rb,*.feature,*.yml,-/Users/ljohnson/development/stratus_cukes/spec/*",
+			"*.rb,*.feature,-/Users/ljohnson/development/stratus_cukes/spec/*",
+			"*.rb,*.feature,-/Users/ljohnson/development/stratus_cukes/spec",
+			"*.feature,-/Users/ljohnson/development/stratus_cukes/spec",
+			"*.rb,*.feature,-/Users/ljohnson/development/stratus_cukes/spec",
+			"*.feature,-/Users/ljohnson/development/stratus_cukes/spec",
+			"*.rb, *.feature,-/Users/ljohnson/development/stratus_cukes/spec",
+			"*.rb, *.feature",
+			"*.rb",
+			"*.rb, *.feature",
+			"*.rb",
+			"*.rb,-spec/",
+			"*.rb",
+			"/Users/ljohnson/development/stratus_cukes/spec/lib/client/stratus/services",
+			"*.rb,*.feature",
+			"*.feature",
+			"*.rb, *.feature",
+			"*.rb",
+			"*.rb, *.feature",
+			"*.rb, features/api/*.feature",
+			"*.rb, *.feature",
+			"*.rb",
+			"*.rb, *.feature",
+			"*.rb",
+			"*.rb,-conductor.rb",
+			"*.rb",
+			"*.rb, *.feature",
+			"*.rb",
+			"*.rb, *.feature",
+			"*.rb, *.featur",
+			"*.rb, *.feature",
+			"*.rb",
+			"*.rb,*.feature",
+			"*.rb",
+			"*.rb,*.feature",
+			"*.rb",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Triage Results",
+			"User by email",
+			"Response Code\\: \\d+",
+			"swapping",
+			"swap",
+			"Preview",
+			"device",
+			"Ship order",
+			"device",
+			"# user",
+			"\\d{1,2}\\.",
+			"Salesorder",
+			"Load inventory",
+			"last_response",
+			"Devices",
+			"ship",
+			"Offers",
+			"log_as_curl",
+			"Headers",
+			"last_response.stringify_response",
+			"\"last_response.stringify_response\\n\\n\"",
+			"Successful devices response",
+			"Getting devices from order",
+			"*** STEP",
+			"Getting payment notary.",
+			"print \\\"Step\\:",
+			"\\n",
+			"print \\\".*?\\\\n\\\"",
+			"print \\\".*?\\\\\\n\"",
+			"print \\\".*?\\\"\\\\n",
+			"Received successful fulfillment order id response:",
+			"\\.Step",
+			"puts",
+			"meid",
+			"rspec",
+			"name",
+			"def self\\.",
+			"self\\.",
+			"@build_verification",
+			"Rand",
+			"ns_id",
+			"ns_",
+			"activate_device",
+			"\\.activate_device",
+			"activate",
+			"ns",
+			"ns_id",
+			"167118",
+			"fulfillments_restlet",
+			"device_receipts_restlet",
+			"po_restlet_receipts",
+			"=",
+			"scriptd119",
+			"script: 111",
+			"po_restlet_receipt",
+			"rspec",
+			"ForcePasswordRequest",
+			"@wip",
+			"what",
+			"staff",
+			"make_cart_item",
+			"@wip",
+			"\\.send",
+			"cart_collections",
+			"def preview_order",
+			"\\\\\"",
+			"@converter",
+			"def place_order",
+			"options",
+			"factory",
+			"Factory",
+			"factory",
+			"telephone_number",
+			"LEFTOFF",
+			".republicdev.info",
+			"URI",
+			"bearer",
+			"pss",
+			"login",
+			"followlocation",
+			"\\.access_token",
+			"c2ZkY2FwaTpINGd2WTJJQURyRW9raTNr",
+			"AuthService",
+			"auth_authz_path",
+			"state",
+			"city",
+			"country_code",
+			"TelephoneNumber.new",
+			"offer_item\\.telephone_number",
+			"offer_item.telephone_number",
+			"Telephone Number Selection",
+			"(?!\\s\\w)\\s",
+			"upgrades",
+			"the user should have ",
+			"@wip",
+			"device",
+			"def",
+			"\\.accessory\ndevice?",
+			"\\.device\ndevice?",
+			"device\\?\ndevice?",
+			"device?\ndevice?",
+			"10000218S",
+			"binding.pry",
+			"downcased",
+			"get_matching_service_line",
+			"customer",
+			"@wip",
+			"customer",
+			"offer_item_for_cart_item",
+			"\\\\\"",
+			"def reconstruct",
+			"\\\\\"",
+			"Owner",
+			"ServicePlanSelection",
+			"the customer has 1 service line",
+			"Plan",
+			"another person",
+			"user",
+			"the user has these service lines with current device and plan",
+			"When the customer selects",
+			"roles",
+			"days_",
+			"When the .+? selects the .*? for ",
+			"a new customer successfully orders and receives",
+			")",
+			"(discuss ",
+			"chapters",
+			" "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"\\*",
+			"\\n\\n\\n*** STEP",
+			"print \\\"\\*\\*\\* STEP\\:",
+			"## Step",
+			"\\\"",
+			"",
+			"\\\"",
+			"",
+			"rw_e911",
+			"\\\"",
+			"\\n",
+			"\\n&",
+			"\\\"",
+			"procs[\\1]",
+			"procs[\\s]",
+			"\\n",
+			"\\'",
+			"DeviceRecord",
+			"\\n",
+			"receive_device",
+			"RmaItemReceiptPayloader",
+			"create_rma_item_receipt",
+			"\\,\\n",
+			"add_data_to_payload",
+			"\\'",
+			"expect_eventually_service_lines",
+			"\\'",
+			"expect(last_response).to have_response_code(preview_order_success)",
+			"\\'",
+			"assign_available_serial_numbers",
+			"\\'",
+			"the offers contain ",
+			"\\'",
+			"match_criteria?",
+			"\\'",
+			"Moto X 3G Data Plan",
+			"Moto X White",
+			"Moto X Black",
+			"black Moto X",
+			"Defy XT Plan",
+			"DEFY XT 557D\\n",
+			"DEFY XT 557D",
+			"Defy XT Plan",
+			"Moto X 4G Data Plan",
+			"Moto X 3G Data Plan",
+			"Moto X Cell Data Plan",
+			"Moto X Wi-Fi Only Plan",
+			"Carbon Fiber Case - Black",
+			"Barely There Case for Moto X - White",
+			"Barely There Case for Moto X - Matt Black",
+			"SOL Republic Deck",
+			"Jax Headset SB M4DE - White",
+			"Jax Headset SB M4DE - Mint Green",
+			"Jax Headset SB M4DE - Onyx",
+			"Non-Glare Film for Moto X",
+			"P513 Car Charger",
+			"Car Charger",
+			"P2000 Power Pack",
+			"Sliver II - Blue-Tooth Headset",
+			"Reveal Case for Moto X - Black",
+			"Reveal Case for Moto  X - Black",
+			"\\'",
+			"sku_for_phone",
+			"sku_for_plan",
+			"sku_for_accessory",
+			"\\1\\n  \\2\\n",
+			"\\1\\n  \\2",
+			"  sku:",
+			"  symbol:",
+			"\\1\\2\\n  \\3\\4\\n  description: \\2",
+			"  symbol:",
+			"\\1\\n  \\3\\4\\n  description: \\2",
+			"\\1\\n\\3\\n\\4\\ndescription: \\2",
+			"\\1  description: \\n",
+			"\\1\\'\\2\\'\\n",
+			"\\1  description: \\n",
+			"\\1  description: ",
+			"\\1\\n  description: ",
+			"",
+			"DEFY",
+			"Moto X",
+			"\\15\\2",
+			",221,",
+			"\\1",
+			"\\10",
+			"P2000 Power Pack:\n  name: P2000 Power Pack\n  symbol: :p2000_power_pack\n  sku: 89673N\n  type: accessory\n  stock_type: A\n\n",
+			"\\\"",
+			"",
+			"\\1",
+			"\\'",
+			"reconstruct_user_by_id",
+			"reconstruct_account_owner_by_id",
+			"add_returns_info",
+			"\\'",
+			"get_uuid",
+			"request_uuid",
+			"get_devices_for_order",
+			"\\1",
+			"",
+			"add_payment_method_id",
+			"successful_get",
+			"\\'",
+			"detect_by_attr",
+			"all_by_stock_type",
+			"products_by_stock_type",
+			"all_by_type",
+			"products_by_type",
+			"  describe '#products_by_type' do\n    it 'gets all the products with that type' do\n      expect(\n        @info.products_by_type('device').all? do |product|\n          product.type == 'device'\n        end\n      ).to be_true\n    end\n  end\n\n",
+			"\\'",
+			"\\n",
+			"phone_to_return",
+			"return_device",
+			"inventory_item_from_device",
+			"@device_serial",
+			"\\\"",
+			"notify_order_shipped_request",
+			"'",
+			"stratus_rma_orders",
+			"order_previewer",
+			"stratus_offers",
+			"cart_previewer",
+			"service_lines",
+			"\\1response_data_factory\\2",
+			"ResponseDataFactory",
+			"\\1\\(\\2\\)\\n",
+			"make_object",
+			"\\\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 141.0
+	},
+	"output.find_results":
+	{
+		"height": 132.0
+	},
+	"project": "microposts.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"net",
+				"config/net_suite_environments.yml"
+			],
+			[
+				"",
+				"config/cucumber.yml"
+			],
+			[
+				"reque",
+				"docs/play_by_play/requests.md"
+			],
+			[
+				"authoption",
+				"lib/client/stratus/services/helpers/auth_options_preparer.rb"
+			],
+			[
+				"swappla",
+				"docs/icurl_transfer/swap_play_by_play.md"
+			],
+			[
+				"swap",
+				"features/util_features/swap_order.feature"
+			],
+			[
+				"ordplay",
+				"docs/icurl_transfer/order_and_ship_play_by_play.md"
+			],
+			[
+				"hook",
+				"features/support/hooks.rb"
+			],
+			[
+				"servicelinesp",
+				"spec/lib/client/stratus/services/service_lines_spec.rb"
+			],
+			[
+				"ordershipmot",
+				"features/api/order_and_ship_moto_x.feature"
+			],
+			[
+				"haveone",
+				"features/support/matchers/have_one_time_charge.rb"
+			],
+			[
+				"orderandshipmo",
+				"features/api/order_and_ship_moto_x.feature"
+			],
+			[
+				"offer",
+				"features/api/offers.feature"
+			],
+			[
+				"haveoffer",
+				"features/support/matchers/have_offers.rb"
+			],
+			[
+				"strrespon",
+				"lib/client/stratus/services/stratus_response.rb"
+			],
+			[
+				"netsuitres",
+				"lib/client/net_suite/services/net_suite_response.rb"
+			],
+			[
+				"strares",
+				"lib/client/stratus/services/stratus_response.rb"
+			],
+			[
+				"strare",
+				"features/support/services/stratus_request.rb"
+			],
+			[
+				"netsuiterespn",
+				"lib/client/net_suite/services/net_suite_response.rb"
+			],
+			[
+				"customize",
+				"features/util_features/customizable_order.feature"
+			],
+			[
+				"orderandship",
+				"docs/icurl_transfer/order_and_ship_with_curl.txt"
+			],
+			[
+				"orders.",
+				"lib/client/stratus/services/orders.rb"
+			],
+			[
+				"orderssp",
+				"spec/lib/client/stratus/services/orders_spec.rb"
+			],
+			[
+				"offersspe",
+				"spec/lib/client/stratus/services/offers_spec.rb"
+			],
+			[
+				"custom",
+				"features/util_features/customizable_order.feature"
+			],
+			[
+				"order",
+				"features/support/model/order.rb"
+			],
+			[
+				"user.",
+				"features/support/model/user.rb"
+			],
+			[
+				"cusotm",
+				"features/support/data/customer.rb"
+			],
+			[
+				"play",
+				"docs/icurl_transfer/play_by_play.md"
+			],
+			[
+				"sr",
+				"lib/client/stratus/services/stratus_response.rb"
+			],
+			[
+				"custoer",
+				"factory_girls/customer.rb"
+			],
+			[
+				"placeand",
+				"docs/icurl_transfer/place_and_ship_order.txt"
+			],
+			[
+				"abbr",
+				"docs/icurl_transfer/place_and_ship_order_abbrev.txt"
+			],
+			[
+				"offers.",
+				"lib/client/stratus/services/offers.rb"
+			],
+			[
+				"haverespon",
+				"features/support/matchers/have_response_code.rb"
+			],
+			[
+				"cuso",
+				"features/util_features/customizable_order.feature"
+			],
+			[
+				"customior",
+				"features/util_features/customizable_order.feature"
+			],
+			[
+				"devices",
+				"lib/client/stratus/services/devices.rb"
+			],
+			[
+				"strres",
+				"lib/client/stratus/services/stratus_response.rb"
+			],
+			[
+				"haveorderid",
+				"features/support/matchers/have_order_id.rb"
+			],
+			[
+				"haverespn",
+				"features/support/matchers/have_response_code.rb"
+			],
+			[
+				"ordermo",
+				"features/api/order_moto_x.feature"
+			],
+			[
+				"cucu",
+				"config/cucumber.yml"
+			],
+			[
+				"offers",
+				"features/api/offers.feature"
+			],
+			[
+				"orderandh",
+				"features/api/order_and_ship_moto_x.feature"
+			],
+			[
+				"env",
+				"features/support/env.rb"
+			],
+			[
+				"hasher",
+				"lib/client/helpers/object_hasher.rb"
+			],
+			[
+				"stratenv",
+				"config/stratus_environments.yml"
+			],
+			[
+				"ordermot",
+				"features/api/order_moto_g.feature"
+			],
+			[
+				"usersp",
+				"spec/lib/client/stratus/services/users_spec.rb"
+			],
+			[
+				"device",
+				"features/support/model/device.rb"
+			],
+			[
+				"test_steps.rb",
+				"features/step_definitions/test_steps.rb"
+			],
+			[
+				"ful",
+				"features/util_features/fulfill_existing_order.feature"
+			],
+			[
+				"cusotmiz",
+				"features/util_features/customizable_order.feature"
+			],
+			[
+				"netsui",
+				"config/net_suite_environments.yml"
+			],
+			[
+				"netsuitensp",
+				"spec/config/net_suite_environment_spec.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"forcepass",
+				"features/util_features/force_password_change.feature"
+			],
+			[
+				"telephon",
+				"features/todo/telephone_number_selection.feature"
+			],
+			[
+				"paylo",
+				"features/support/services/payloader.rb"
+			],
+			[
+				"carttem",
+				"features/support/data/cart_telephone_number.rb"
+			],
+			[
+				"carcon",
+				"features/support/control/cart_converter.rb"
+			],
+			[
+				"payl",
+				"spec/features/support/services/payloader_spec.rb"
+			],
+			[
+				"offers_by_service_line.json",
+				"spec/fixtures/offers_by_service_line.json"
+			],
+			[
+				"spec",
+				"spec/spec_helper.rb"
+			],
+			[
+				"mis",
+				"lib/resources/catalog/republic/misc.yml"
+			],
+			[
+				"cart",
+				"features/support/control/cart.rb"
+			],
+			[
+				"cartcon",
+				"features/support/control/cart_converter.rb"
+			],
+			[
+				"inspec",
+				"features/support/world_extensions/inspector.rb"
+			],
+			[
+				"authser",
+				"features/support/services/auth_service.rb"
+			],
+			[
+				"authspec",
+				"spec/features/support/new_services/auth_service_spec.rb"
+			],
+			[
+				"spech",
+				"spec/spec_helper.rb"
+			],
+			[
+				"straureq",
+				"features/support/services/stratus_request.rb"
+			],
+			[
+				"devices.r",
+				"lib/client/stratus/services/devices.rb"
+			],
+			[
+				"devicesspec",
+				"spec/lib/client/stratus/services/devices_spec.rb"
+			],
+			[
+				"devicsp",
+				"spec/lib/client/net_suite/services/devices_spec.rb"
+			],
+			[
+				"orderste",
+				"features/step_definitions/order_steps.rb"
+			],
+			[
+				"usersspec",
+				"spec/lib/client/stratus/services/users_spec.rb"
+			],
+			[
+				"users.",
+				"lib/client/stratus/services/users.rb"
+			],
+			[
+				"stren",
+				"config/stratus_environments.yml"
+			],
+			[
+				"strev",
+				"config/stratus_environments.yml"
+			],
+			[
+				"speceh",
+				"spec/spec_helper.rb"
+			],
+			[
+				"ver",
+				"features/support/services/verify_token_request.rb"
+			],
+			[
+				"knowsser",
+				"features/support/world_extensions/knows_services.rb"
+			],
+			[
+				"factory",
+				"features/support/factories/response_data_factory.rb"
+			],
+			[
+				"cartitemspe",
+				"spec/features/support/data/cart_item_spec.rb"
+			],
+			[
+				"cartitem",
+				"features/support/data/cart_item.rb"
+			],
+			[
+				"telephonen",
+				"features/support/model/telephone_number.rb"
+			],
+			[
+				"offeritem",
+				"features/support/model/offer_item.rb"
+			],
+			[
+				"produ",
+				"lib/product/product.rb"
+			],
+			[
+				"carttie",
+				"features/support/data/cart_item.rb"
+			],
+			[
+				"planym",
+				"lib/resources/catalog/republic/service_plans.yml"
+			],
+			[
+				"cart_spe",
+				"spec/features/support/control/cart_spec.rb"
+			],
+			[
+				"misym",
+				"lib/resources/catalog/republic/misc.yml"
+			],
+			[
+				"telym",
+				"lib/client/stratus/services/payloaders/triage_results_modus_payloader.rb"
+			],
+			[
+				"carconsp",
+				"spec/features/support/control/cart_converter_spec.rb"
+			],
+			[
+				"foreman.rb",
+				"features/support/world_extensions/foreman.rb"
+			],
+			[
+				"prod",
+				"lib/product/product.rb"
+			],
+			[
+				"cartitesp",
+				"spec/features/support/data/cart_item_spec.rb"
+			],
+			[
+				"cartconv",
+				"features/support/control/cart_converter.rb"
+			],
+			[
+				"mis.y",
+				"lib/resources/catalog/republic/misc.yml"
+			],
+			[
+				"fore",
+				"features/support/world_extensions/foreman.rb"
+			],
+			[
+				"change",
+				"features/api/change_service_plan.feature"
+			],
+			[
+				"swap.",
+				"features/util_features/swap_order.feature"
+			],
+			[
+				"servielinest",
+				"features/step_definitions/service_line_steps.rb"
+			],
+			[
+				"find",
+				"features/tmp/find_a_user.feature"
+			],
+			[
+				"teststep",
+				"features/step_definitions/test_steps.rb"
+			],
+			[
+				"changeser",
+				"features/api/change_service_plan.feature"
+			],
+			[
+				"serviceline",
+				"features/support/model/service_line.rb"
+			],
+			[
+				"servlinesp",
+				"spec/lib/client/stratus/services/service_lines_spec.rb"
+			],
+			[
+				"plan_change_steps.rb",
+				"features/step_definitions/plan_change_steps.rb"
+			],
+			[
+				"offers_",
+				"spec/fixtures/offers_by_service_line.json"
+			],
+			[
+				"wrp",
+				"features/support/data/wraps_product.rb"
+			],
+			[
+				"cart.",
+				"factory_girls/cart.rb"
+			],
+			[
+				"upgrade",
+				"features/api/upgrade_and_ship_defy_xt.feature"
+			],
+			[
+				"planch",
+				"features/step_definitions/plan_change_steps.rb"
+			],
+			[
+				"cond",
+				"features/support/world_extensions/conductor.rb"
+			],
+			[
+				"multi",
+				"features/api/multiuser_accounts.feature"
+			],
+			[
+				"offerstep",
+				"features/step_definitions/offers_steps.rb"
+			],
+			[
+				"cusotmst",
+				"features/step_definitions/customer_steps.rb"
+			],
+			[
+				"offers_spec",
+				"spec/lib/client/stratus/services/offers_spec.rb"
+			],
+			[
+				"offers.rb",
+				"lib/client/stratus/services/offers.rb"
+			],
+			[
+				"customer_steps.rb",
+				"features/step_definitions/customer_steps.rb"
+			],
+			[
+				"mult",
+				"features/api/multiuser_accounts.feature"
+			],
+			[
+				"finda",
+				"features/tmp/find_a_user.feature"
+			],
+			[
+				"kitch",
+				"features/api/kitchen_sink.feature"
+			],
+			[
+				"mut",
+				"features/api/multiuser_accounts.feature"
+			],
+			[
+				"swapstep",
+				"features/step_definitions/swap_steps.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+		],
+		"width": 489.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 300.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
