@@ -1,39 +1,34 @@
 require 'spec_helper'
 
 describe "StaticPages" do
-  describe "Home Page" do
-    it "should have the content 'Microposts'" do
-      visit '/static_pages/home'
-      expect(page).to have_content('Microposts')
-    end
+  subject { page }
 
-    it "should have the right title" do
-      visit '/static_pages/home'
-      expect(page).to have_title("Ruby on Rails Tutorial Microposts | Home")
-    end
+  describe "Home Page" do
+    before { visit root_path }
+
+    it { should have_content('Microposts') }
+    it { should have_title(full_title('')) }
+    it { should_not have_title(full_title('| Home')) }
   end
 
   describe "Help Page" do
-    it "should have the content 'Help'" do
-      visit '/static_pages/help'
-      expect(page).to have_content('Help')
-    end
+    before { visit help_path }
 
-    it "should have the right title" do
-      visit '/static_pages/help'
-      expect(page).to have_title("Ruby on Rails Tutorial Microposts | Help")
-    end
+    it { should have_content('Help') }
+    it { should have_title(full_title('Help')) }
   end
 
   describe "About Page" do
-    it "should have the content 'About Us'" do
-      visit '/static_pages/about'
-      expect(page).to have_content('About Us')
-    end
+    before { visit about_path }
 
-    it "should have the right title" do
-      visit '/static_pages/about'
-      expect(page).to have_title("Ruby on Rails Tutorial Microposts | About")
-    end
+    it { should have_content('About Us') }
+    it { should have_title('About Us') }
+  end
+
+  describe "Contact page" do
+    before { visit contact_path }
+
+    it { should have_content('Contact') }
+    it { should have_title('Contact') }
   end
 end
