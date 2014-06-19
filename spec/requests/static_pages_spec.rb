@@ -8,7 +8,7 @@ describe "StaticPages" do
 
     it { should have_content('Microposts') }
     it { should have_title(full_title('')) }
-    it { should_not have_title(full_title('| Home')) }
+    it { should_not have_title(full_title('Home')) }
   end
 
   describe "Help Page" do
