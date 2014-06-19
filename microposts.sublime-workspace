@@ -523,12 +523,22 @@
 	"build_system": "Packages/JSLint/JSLint.sublime-build",
 	"command_palette":
 	{
+		"height": 375.0,
 		"height": 269.0,
 		"selected_items":
 		[
 			[
+				"rie",
+				"Indentation: Reindent Lines"
+			],
+			[
 				"proj",
+				"Project: Edit"
 				"Project: Save As"
+			],
+			[
+				"add",
+				"Project: Add Folder"
 			],
 			[
 				"ever se",
@@ -1039,7 +1049,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 579.0
+		"width": 538.0
 	},
 	"console":
 	{
@@ -1059,6 +1069,14 @@
 	},
 	"file_history":
 	[
+		"/Users/ljohnson/code/learning/ruby/books/hartl-tutorial/microposts/app/views/layouts/application.html.erb",
+		"/Users/ljohnson/code/learning/ruby/books/hartl-tutorial/microposts/app/views/static_pages/home.html.erb",
+		"/Users/ljohnson/code/learning/ruby/books/hartl-tutorial/microposts/.bundle/bin/htmldiff",
+		"/Users/ljohnson/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/ljohnson/code/learning/ruby/books/hartl-tutorial/microposts/app/helpers/application_helper.rb",
+		"/Users/ljohnson/code/learning/ruby/books/hartl-tutorial/microposts/config/application.rb",
+		"/Users/ljohnson/code/learning/ruby/books/hartl-tutorial/microposts/.bundle/bin/autospec",
+		"/Users/ljohnson/code/learning/ruby/books/hartl-tutorial/microposts/microposts.sublime-project",
 		"/Users/ljohnson/Development/stratus_cukes/config/net_suite_environments.yml",
 		"/Users/ljohnson/Development/stratus_cukes/config/cucumber.yml",
 		"/Users/ljohnson/Development/stratus_cukes/tags",
@@ -1178,7 +1196,7 @@
 		"/Users/ljohnson/Development/stratus_cukes/factory_girls/customer.rb",
 		"/Users/ljohnson/Development/stratus_cukes/lib/client/stratus/services/offers.rb",
 		"/Users/ljohnson/Development/stratus_cukes/lib/client/stratus/services/stratus_service.rb",
-		"/Users/ljohnson/Development/stratus_cukes/spec/tmp/offers_inspector_spec.rb",
+		"/Users/ljohnson/Development/stratus_cukes/spec/tmp/offers_inspector_spec.rb"
 		"/Users/ljohnson/Development/stratus_cukes/docs/icurl_transfer/place_and_ship_order_abbrev.txt",
 		"/Users/ljohnson/Development/stratus_cukes/docs/icurl_transfer/place_and_ship_order.txt",
 		"/Users/ljohnson/Development/stratus_cukes/spec/fixtures/place_order_result.json",
@@ -1572,6 +1590,14 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"home",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"applichtml",
+				"app/views/layouts/application.html.erb"
+			],
 			[
 				"net",
 				"config/net_suite_environments.yml"
