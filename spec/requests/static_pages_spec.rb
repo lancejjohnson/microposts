@@ -8,9 +8,6 @@ describe "StaticPages" do
 
     it { should have_content('Microposts') }
     it { should have_title(full_title('')) }
-      expect(page).to have_title("Ruby on Rails Tutorial Microposts")
-    end
-
     it { should_not have_title(full_title('| Home')) }
   end
 
@@ -26,8 +23,6 @@ describe "StaticPages" do
 
     it { should have_content('About Us') }
     it { should have_title('About Us') }
-      expect(page).to have_title("#{title_prefix} About")
-    end
   end
 
   describe "Contact page" do
