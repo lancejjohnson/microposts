@@ -79,6 +79,17 @@ describe User do
     it { should_not be_valid }
   end
 
+  describe 'email saved in downcase' do
+    before {
+      @user.email = "HELLO@email.COM"
+      @user.save
+    }
+
+    specify 'user email is downcase' do
+      @user.save
+      expect(@user.email).to eql('hello@email.com')
+    end
+  end
   describe 'when password is not present' do
     before do
       @user = User.new(
