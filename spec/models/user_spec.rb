@@ -34,7 +34,7 @@ describe User do
     it 'should be invalid' do
       addresses = %w[
         user@foo,com user_at_foo.org example.user@foo.
-        foo@bar_baz.com foo@bar+baz.com
+        foo@bar_baz.com foo@bar+baz.com foo@bar..com
       ]
       addresses.each do |invalid_address|
         @user.email = invalid_address
@@ -79,14 +79,13 @@ describe User do
     it { should_not be_valid }
   end
 
-  describe 'email saved in downcase' do
+  describe 'email with mixed characters' do
     before {
       @user.email = "HELLO@email.COM"
       @user.save
     }
 
-    specify 'user email is downcase' do
-      @user.save
+    it 'is saved with all lowercase' do
       expect(@user.email).to eql('hello@email.com')
     end
   end
