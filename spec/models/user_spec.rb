@@ -17,6 +17,7 @@ describe User do
   it { should respond_to(:password_digest) }
   it { should respond_to(:password) }
   it { should respond_to(:password_confirmation) }
+  it { should respond_to(:remember_token) }
   it { should respond_to(:authenticate) }
   it { should be_valid }
 
@@ -89,6 +90,7 @@ describe User do
       expect(@user.email).to eql('hello@email.com')
     end
   end
+
   describe 'when password is not present' do
     before do
       @user = User.new(
@@ -125,6 +127,13 @@ describe User do
   describe 'with a password that is too short' do
     before { @user.password = @user.password_confirmation = "a" * 5 }
     it { should be_invalid }
+  end
+
+  describe 'remember token' do
+    # Remember token is created with before_save callback, so need to save
+    # the user.
+    before { @user.save }
+    its(:remember_token) { should_not be_blank }
   end
 end
 
